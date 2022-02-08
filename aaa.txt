@@ -1,2 +1,2 @@
 New file for test...
-added by hot fix
+added by hot fix edited by master
